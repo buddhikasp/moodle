@@ -1,3 +1,7 @@
+---
+title: Home
+layout: default
+---
 <h1> Moodle as a Service  </h1>
 
 <h3>Moodle - Open Source Learning Platform</h3> 
