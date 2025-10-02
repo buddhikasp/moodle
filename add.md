@@ -1,8 +1,4 @@
----
-title: Add
-layout: page
-permalink: /add/
----
+
 <H1> 01 Adding a Course Category </H1>
 
 `Note: Regular teachers cannot add new courses to Moodle. To do this, you need to be log in as an administrator, course creator, or manager.`
