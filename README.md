@@ -1,8 +1,4 @@
----
-title: Home
-layout: default
-permalink: /
----
+
 <h1> Moodle as a Service  </h1>
 
 <h3>Moodle - Open Source Learning Platform</h3> 
